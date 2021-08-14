@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:0, ICTV
+
+http://s06.iptvx.tv:8090/s/805aef37/ictv.m3u8
+
+
+#EXTINF:0, STB
+
+http://s06.iptvx.tv:8090/s/805aef37/stb.m3u8
+
+#EXTINF:0, NOVY KANAL
+
+http://s06.iptvx.tv:8090/s/805aef37/novij-kanal.m3u8
+
+#EXTINF:0, UKRAINA
+
+http://s06.iptvx.tv:8090/s/805aef37/trk-ua.m3u8
+
+
+#EXTINF:0, Football 1
+
+http://s06.iptvx.tv:8090/s/805aef37/futbol1-ua.m3u8
+
+#EXTINF:0, Football 1 HD
+
+http://s06.iptvx.tv:8090/s/805aef37/futbol1-ua-hd.m3u8
+
+#EXTINF:0, Football 2
+
+http://s06.iptvx.tv:8090/s/805aef37/futbol2-ua.m3u8
+
+#EXTINF:0, Football 2 HD
+
+http://s06.iptvx.tv:8090/s/805aef37/futbol2-ua-hd.m3u8
+
+#EXTINF:0, Football 3
+
+http://s06.iptvx.tv:8090/s/805aef37/futbol3-ua.m3u8
+
+#EXTINF:0, Football 3 HD
+
+http://s06.iptvx.tv:8090/s/805aef37/futbol3-ua-hd.m3u8
