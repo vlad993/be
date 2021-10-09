@@ -17,6 +17,9 @@ http://s06.iptvx.tv:8090/s/805aef37/novij-kanal.m3u8
 
 http://s06.iptvx.tv:8090/s/805aef37/trk-ua.m3u8
 
+#EXTINF:0, UKRAINA HD
+
+http://s06.iptvx.tv:8090/s/805aef37/trk-ua-hd.m3u8
 
 #EXTINF:0, Football 1
 
