@@ -4,15 +4,6 @@
 
 http://s06.iptvx.tv:8090/s/805aef37/ictv.m3u8
 
-
-#EXTINF:0, STB
-
-http://s06.iptvx.tv:8090/s/805aef37/stb.m3u8
-
-#EXTINF:0, NOVY KANAL
-
-http://s06.iptvx.tv:8090/s/805aef37/novij-kanal.m3u8
-
 #EXTINF:0, UKRAINA
 
 http://s06.iptvx.tv:8090/s/805aef37/trk-ua.m3u8
