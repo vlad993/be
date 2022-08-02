@@ -1,7 +1,6 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="KetnetOp12.be" tvg-name="Ketnet BE" tvg-logo="https://picon-13398.kxcdn.com/ketnet.jpg" group-title="Live: Belgium",Ketnet BE
 http://tv.id.iptv.uno:80/21VDOFzCDK5r14/FDShIYFSJqk998/10811
-#EXTINF:-1 tvg-id="" tvg-name="VTM Kids BE"VTM Kids BE
+#EXTINF:-1 tvg-id="" tvg-name="VTM Kids BE" tvg-logo="https://picon-13398.kxcdn.com/vtmkidsbe.jpg" group-title="Live: Belgium",VTM Kids BE
 http://tv.id.iptv.uno:80/21VDOFzCDK5r14/FDShIYFSJqk998/11234
 #EXTINF:-1 tvg-id="Nickelodeon.nl" tvg-name="Nickelodeon NL" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Netherlands",Nickelodeon NL
 http://tv.id.iptv.uno:80/21VDOFzCDK5r14/FDShIYFSJqk998/2461
