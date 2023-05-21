@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:23,UA: Setanta Sport HD
+#EXTVLCOPT:network-caching=1000
+http://em.gazoni1.com:80/live/s.203171.1832394a4ec9b4b43a2d09ac72e42e620/setanta-ua/video.m3u8
+#EXTINF:0,UA: Setanta Sport+ HD
+#EXTVLCOPT:network-caching=1000
+http://em.gazoni1.com:80/live/s.203171.1832394a4ec9b4b43a2d09ac72e42e620/setantaplus-ua/video.m3u8
+#EXTINF:0,Setanta Qazaqstan HD
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/2399/index.m3u8
+#EXTINF:0,Setanta Sports 1 Baltic FHD
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/20081/index.m3u8
+#EXTINF:0,Setanta Sports 1 Baltic HD
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/5069/index.m3u8
+#EXTINF:0,Setanta Sports 1 GE
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/7169/index.m3u8
+#EXTINF:0,Setanta Sports 1 Qazaqstan HD
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/20065/index.m3u8
+#EXTINF:0,Setanta Sports 2 GE
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/7168/index.m3u8
+#EXTINF:0,Setanta Sports 3 GE
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/2209/index.m3u8
+#EXTINF:0,Setanta Sports Moldova HD
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/20074/index.m3u8
+#EXTINF:0,Setanta Ukraine HD
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/272/index.m3u8
+#EXTINF:0,Setanta Ukraine HD orig
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/15183/index.m3u8
+#EXTINF:0,Setanta Ukraine Plus HD
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/5068/index.m3u8
+#EXTINF:0,Setanta Ukraine Plus HD orig
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/15184/index.m3u8
