@@ -41,3 +41,6 @@ http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/5068/index.m3u8
 #EXTINF:0,Setanta Ukraine Plus HD orig
 #EXTVLCOPT:network-caching=1000
 http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/15184/index.m3u8
+#EXTINF:0,Match footbal moskali hd
+#EXTVLCOPT:network-caching=1000
+http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/2414/index.m3u8
