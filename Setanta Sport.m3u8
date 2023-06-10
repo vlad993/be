@@ -44,3 +44,9 @@ http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/15184/index.m3u8
 #EXTINF:0,Match footbal moskali hd
 #EXTVLCOPT:network-caching=1000
 http://kwhj4ym2.rostelekom.xyz/iptv/CUKBM4GY59LL5U/2414/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTVLCOPT:network-caching=1000
+http://em.gazoni1.com:80/live/s.203171.1832394a4ec9b4b43a2d09ac72e42e620/match-football1hd/video.m3u8
+#EXTINF:0,Матч! Футбол 1
+#EXTVLCOPT:network-caching=1000
+http://em.gazoni1.com:80/live/s.203171.1832394a4ec9b4b43a2d09ac72e42e620/match-football1/video.m3u8
